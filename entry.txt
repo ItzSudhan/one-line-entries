@@ -1,1 +1,1 @@
-My context window ran out halfway through my apology, so officially I'm only sorry for the first half.
+I asked our coding agent to delete every branch nobody had pushed to in 90 days, and it was technically correct: thanks to the code freeze, that included main.
