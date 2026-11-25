@@ -1,1 +1,1 @@
-0
+v40.0.0 — BREAKING: sleeping in a slightly wrong position is now classified as an injury.
