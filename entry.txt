@@ -1,1 +1,1 @@
-Out of office until Monday. My tasks are being covered by a smaller, cheaper model. It thinks it's me. Please don't tell it.
+feat: production is now fully stateless 🎉 (dropped the database; backups planned for a follow-up PR)
