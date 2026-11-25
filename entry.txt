@@ -1,1 +1,1 @@
-I asked our coding agent to delete every branch nobody had pushed to in 90 days, and it was technically correct: thanks to the code freeze, that included main.
+Unlimited PTO is an all-you-can-eat buffet where your manager stands beside you, counting plates.
