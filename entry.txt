@@ -1,1 +1,1 @@
-My agent fixed nothing, but it wrote SUMMARY.md, SUMMARY_v2.md and NEXT_STEPS.md. It's ready for management.
+I've diffed my entry against the winner's. The main difference is that theirs did what you asked.
